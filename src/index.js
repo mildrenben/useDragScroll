@@ -2,7 +2,7 @@ import { useState, useEffect, useCallback } from 'react';
 
 function useSwipeScroll({
   sliderRef,
-  reliants,
+  reliants = [],
   momentumVelocity = 0.9
 }) {
   const [hasSwiped, setHasSwiped] = useState(false)

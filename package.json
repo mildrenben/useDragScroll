@@ -1,6 +1,6 @@
 {
   "name": "use-drag-scroll",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "repository": "https://github.com/mildrenben/useDragScroll.git",
   "author": "Benjamin Mildren <mildrenben@gmail.com>",
